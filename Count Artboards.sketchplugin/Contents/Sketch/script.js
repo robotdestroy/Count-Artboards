@@ -9,7 +9,7 @@ if (documentData.allArtboards().count() > 1) {
 } else if (documentData.allArtboards().count() == 0) {
     UI.message("You do not yet have any artboards in this document.");
 } else {
-    UI.message("Something unsual has happened.");
+    UI.message("Something unusual has happened.");
 }
           };
           
