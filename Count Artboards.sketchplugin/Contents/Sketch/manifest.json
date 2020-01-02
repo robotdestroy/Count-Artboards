@@ -1,0 +1,24 @@
+{
+  "author" : "Charlie Deets",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "Count Artboards",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "Count Artboards",
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ]
+  },
+  "identifier" : "com.example.sketch.db5c91c5-f041-4eb2-a49c-3a5c4beff8c1",
+  "version" : "1.0",
+  "description" : "Count the number of artboards in your document.",
+  "authorEmail" : "charlie.deets@gmail.com",
+  "name" : "Count Artboards"
+}
